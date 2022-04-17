@@ -1,0 +1,101 @@
+Script started on 2019-12-03 10:21:42-05:00 [TERM="xterm" TTY="/dev/pts/14" COLUMNS="207" LINES="59"]
+]0;melend53@elvix2:~/DSA/Project[melend53@elvis Project]$ ls
+airport1.input              AirportSystem.java.orig               Driver.class      ListAB.java.orig                         ListRAB.html        package-summary.html  QueueInterface.class
+airport1.output             allclasses-frame.html                 Driver.html       ListException.class                      ListRAB.java        package-tree.html     QueueInterface.java
+AirportException.class      allclasses-noframe.html               Driver.java       ListException.java                       ListRAB.java.orig   Plane.class           Rationale.txt
+AirportException.java       constant-values.html                  Driver.java.orig  ListIndexOutOfBoundsException.class      Node.class          Plane.html            Runway.class
+AirportException.java.orig  deprecated-list.html                  help-doc.html     ListIndexOutOfBoundsException.java       Node.html           Plane.java            Runway.html
+airport.input               Devyn_Melendez_Nick_Bovee_submission  index-all.html    ListIndexOutOfBoundsException.java.orig  Node.java           QueueCSLS.class       Runway.java
+airport.output              Driver1.class                         index.html        ListInterface.class                      output.pdf          QueueCSLS.html        script.js
+AirportSystem.class         Driver1.html                          ListAB.class      ListInterface.java                       overview-tree.html  QueueCSLS.java        stylesheet.css
+AirportSystem.html          Driver1.java                          ListAB.html       ListInterface.java.orig                  package-frame.html  QueueException.class
+AirportSystem.java          Driver1.java.orig                     ListAB.java       ListRAB.class                            package-list        QueueException.java
+]0;melend53@elvix2:~/DSA/Project[melend53@elvis Project]$ cd ..
+]0;melend53@elvix2:~/DSA[melend53@elvis DSA]$ cp -r projec[K[K[K[K[K[KPrpj[K[Koject ~hristescu/DSA/[K[K[K[KHDSA/Project/melend53
+]0;melend53@elvix2:~/DSA[melend53@elvis DSA]$ ~hristesu[Kcu/HDSA/[K[KA/Proec[K[Kject.[K/Grd[Kades/fix_perms.csh
+
+[31m1. Fixing permissions for (B[m melend53 [31m... done. 
+
+[31m2. Check what was submitted:(B[m
+-rw-r--r-- 1 melend53 domain users   682 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/airport1.input
+-rw-r--r-- 1 melend53 domain users 14067 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/airport1.output
+-rw-r--r-- 1 melend53 domain users   239 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/AirportException.class
+-rw-r--r-- 1 melend53 domain users   548 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/AirportException.java
+-rw-r--r-- 1 melend53 domain users   545 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/AirportException.java.orig
+-rw-r--r-- 1 melend53 domain users   682 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/airport.input
+-rw-r--r-- 1 melend53 domain users 14067 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/airport.output
+-rw-r--r-- 1 melend53 domain users  5995 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/AirportSystem.class
+-rw-r--r-- 1 melend53 domain users 26815 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/AirportSystem.html
+-rw-r--r-- 1 melend53 domain users 16416 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/AirportSystem.java
+-rw-r--r-- 1 melend53 domain users 15976 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/AirportSystem.java.orig
+-rw-r--r-- 1 melend53 domain users  1407 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/allclasses-frame.html
+-rw-r--r-- 1 melend53 domain users  1227 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/allclasses-noframe.html
+-rw-r--r-- 1 melend53 domain users  3507 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/constant-values.html
+-rw-r--r-- 1 melend53 domain users  3457 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/deprecated-list.html
+-rw-r--r-- 1 melend53 domain users     0 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/Devyn_Melendez_Nick_Bovee_submission
+-rw-r--r-- 1 melend53 domain users  7231 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/Driver1.class
+-rw-r--r-- 1 melend53 domain users 15919 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/Driver1.html
+-rw-r--r-- 1 melend53 domain users 12896 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/Driver1.java
+-rw-r--r-- 1 melend53 domain users 12875 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/Driver1.java.orig
+-rw-r--r-- 1 melend53 domain users  6968 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/Driver.class
+-rw-r--r-- 1 melend53 domain users 15907 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/Driver.html
+-rw-r--r-- 1 melend53 domain users 12379 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/Driver.java
+-rw-r--r-- 1 melend53 domain users 12358 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/Driver.java.orig
+-rw-r--r-- 1 melend53 domain users  7892 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/help-doc.html
+-rw-r--r-- 1 melend53 domain users 34450 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/index-all.html
+-rw-r--r-- 1 melend53 domain users  2754 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/index.html
+-rw-r--r-- 1 melend53 domain users  1512 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/ListAB.class
+-rw-r--r-- 1 melend53 domain users 15273 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/ListAB.html
+-rw-r--r-- 1 melend53 domain users  4070 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/ListAB.java
+-rw-r--r-- 1 melend53 domain users  4056 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/ListAB.java.orig
+-rw-r--r-- 1 melend53 domain users   233 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/ListException.class
+-rw-r--r-- 1 melend53 domain users   420 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/ListException.java
+-rw-r--r-- 1 melend53 domain users   274 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/ListIndexOutOfBoundsException.class
+-rw-r--r-- 1 melend53 domain users   650 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/ListIndexOutOfBoundsException.java
+-rw-r--r-- 1 melend53 domain users   651 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/ListIndexOutOfBoundsException.java.orig
+-rw-r--r-- 1 melend53 domain users   455 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/ListInterface.class
+-rw-r--r-- 1 melend53 domain users  1243 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/ListInterface.java
+-rw-r--r-- 1 melend53 domain users  1241 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/ListInterface.java.orig
+-rw-r--r-- 1 melend53 domain users  1592 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/ListRAB.class
+-rw-r--r-- 1 melend53 domain users 12241 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/ListRAB.html
+-rw-r--r-- 1 melend53 domain users  3440 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/ListRAB.java
+-rw-r--r-- 1 melend53 domain users  3425 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/ListRAB.java.orig
+-rw-r--r-- 1 melend53 domain users   888 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/Node.class
+-rw-r--r-- 1 melend53 domain users 12567 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/Node.html
+-rw-r--r-- 1 melend53 domain users  1684 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/Node.java
+-rw-r--r-- 1 melend53 domain users 81620 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/output.pdf
+-rw-r--r-- 1 melend53 domain users  4839 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/overview-tree.html
+-rw-r--r-- 1 melend53 domain users  1514 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/package-frame.html
+-rw-r--r-- 1 melend53 domain users     1 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/package-list
+-rw-r--r-- 1 melend53 domain users  5121 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/package-summary.html
+-rw-r--r-- 1 melend53 domain users  4848 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/package-tree.html
+-rw-r--r-- 1 melend53 domain users  1058 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/Plane.class
+-rw-r--r-- 1 melend53 domain users 13306 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/Plane.html
+-rw-r--r-- 1 melend53 domain users  2084 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/Plane.java
+-rw-r--r-- 1 melend53 domain users  1677 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/QueueCSLS.class
+-rw-r--r-- 1 melend53 domain users 13890 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/QueueCSLS.html
+-rw-r--r-- 1 melend53 domain users  2907 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/QueueCSLS.java
+-rw-r--r-- 1 melend53 domain users   235 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/QueueException.class
+-rw-r--r-- 1 melend53 domain users   581 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/QueueException.java
+-rw-r--r-- 1 melend53 domain users   467 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/QueueInterface.class
+-rw-r--r-- 1 melend53 domain users  2560 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/QueueInterface.java
+-rw-r--r-- 1 melend53 domain users  3545 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/Rationale.txt
+-rw-r--r-- 1 melend53 domain users  2497 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/Runway.class
+-rw-r--r-- 1 melend53 domain users 21300 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/Runway.html
+-rw-r--r-- 1 melend53 domain users  4936 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/Runway.java
+-rw-r--r-- 1 melend53 domain users   827 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/script.js
+-rw-r--r-- 1 melend53 domain users 12842 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/stylesheet.css
+
+[31m3. Let's make sure your code compiles:(B[m
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+[31m4. Check that output files were submitted:(B[m
+-rw-r--r-- 1 melend53 domain users 14067 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/airport1.output
+-rw-r--r-- 1 melend53 domain users 14067 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/airport.output
+-rw-r--r-- 1 melend53 domain users 81620 Dec  3 10:22 /home/hristescu/HDSA/Project/melend53/Project/output.pdf
+
+[31mIf anything does not look right or if your code doesn't compile, please fix and resubmit.(B[m
+]0;melend53@elvix2:~/DSA[melend53@elvis DSA]$ exit
+
+Script done on 2019-12-03 10:23:37-05:00 [COMMAND_EXIT_CODE="0"]
